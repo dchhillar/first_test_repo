@@ -11,3 +11,6 @@ A little girl goes into a pet show and asks for a wabbit. The shop keeper looks 
 
 —Nick Leaton, Wed, 04 Dec 1996
 
+A horse walks into a bar and the bartender says  "why the long face?" 
+
+**shrug**
