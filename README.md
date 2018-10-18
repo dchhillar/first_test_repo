@@ -1,5 +1,5 @@
 # first_test_repo
-Testing out github and version control
+Testing out github 
 
 Here's a funny python joke: 
 
