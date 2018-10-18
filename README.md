@@ -14,3 +14,5 @@ A little girl goes into a pet show and asks for a wabbit. The shop keeper looks 
 A horse walks into a bar and the bartender says  "why the long face?" 
 
 Horses are pretty cool!
+
+But then so are snakes..
